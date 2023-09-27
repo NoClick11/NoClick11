@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div>
    <a href="https://github.com/NoClick11">
-   <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=NoClick11&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+   <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=NoClick1&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
    <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoClick11&layout=compact&langs_count=6&theme=transparent"/>
 </div>
 
