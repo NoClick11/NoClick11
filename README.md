@@ -1,4 +1,5 @@
-### Hi there 👋
+### Bem vindo ao meu perfil 👋
+<hr>
 <div>
    <a href="https://github.com/NoClick11">
    <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=NoClick11&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
