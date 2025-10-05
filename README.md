@@ -65,20 +65,14 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
 
 ## 📊 Minhas Estatísticas no GitHub
 
-<table border="0" align="center">
-  <tr border="0">
-    <td width="50%" align="center">
-      <a href="https://github.com/NoClick11">
-        <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=NoClick11&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/NoClick11">
-        <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoClick11&layout=compact&langs_count=7&theme=transparent"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/NoClick11">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoClick11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/NoClick11">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoClick11&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</p>
 
 ---
 
