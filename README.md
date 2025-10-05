@@ -63,6 +63,19 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
   </tr>
 </table>
 
+## 📊 Minhas Estatísticas no GitHub
+
+<div align="center">
+  <a href="https://github.com/NoClick11">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NoClick11&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoClick11&layout=compact&langs_count=7&theme=transparent"/>
+</div>
+
 ---
 
-##
+## 📫 Entre em Contato
+
+<div> 
+  <a href="https://www.linkedin.com/in/manuel-bahamonde-200237293/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:bahamonde.boullosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
