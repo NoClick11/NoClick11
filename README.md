@@ -8,60 +8,76 @@ Sou um desenvolvedor apaixonado por tecnologia e focado em construir soluções 
 
 ## 💻 Tecnologias e Ferramentas
 
-Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
+Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#-backend">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="48" height="48" alt="Java" />
+      <br>Java 21
     </td>
     <td align="center" width="96">
-      <a href="#-backend">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
-      </a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="48" height="48" alt="Spring Boot" />
       <br>Spring Boot
     </td>
     <td align="center" width="96">
-      <a href="#-frontend">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
+      <br>React 19
+    </td>
+     <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="48" height="48" alt="Vite" />
+      <br>Vite
     </td>
     <td align="center" width="96">
-      <a href="#-frontend">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="48" height="48" alt="JavaScript" />
-      </a>
       <br>JavaScript
     </td>
+     <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
     <td align="center" width="96">
-      <a href="#-banco-de-dados">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-      </a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
-     <td align="center" width="96">
-      <a href="#-banco-de-dados">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-      </a>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
+   </tr>
+   <tr>
+     <td align="center" width="96">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
+      <br>AWS (EC2/RDS)
+    </td>
     <td align="center" width="96">
-      <a href="#-ferramentas-e-devops">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
+       <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="48" height="48" alt="Netlify" />
+      <br>Netlify
+    </td>
+    <td align="center" width="96">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" />
+      <br>Nginx
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker" />
       <br>Docker
     </td>
-     <td align="center" width="96">
-      <a href="#-ferramentas-e-devops">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      </a>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-  </tr>
+     <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="GitHub Actions" />
+      <br>GitHub Actions
+    </td>
+     <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original-wordmark.svg" width="48" height="48" alt="Maven" />
+      <br>Maven
+    </td>
+     </tr>
 </table>
+
+---
 
 ## 📊 Minhas Estatísticas no GitHub
 
