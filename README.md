@@ -2,7 +2,6 @@
 
 Sou um desenvolvedor apaixonado por tecnologia e focado em construir soluções de software robustas e eficientes. Atualmente, estou aprofundando meus conhecimentos no ecossistema Full-Stack, combinando o poder do Spring Boot no backend com a reatividade do React no frontend.
 
-**Estou em busca da minha primeira oportunidade de estágio para aplicar minhas habilidades, aprender com uma equipe experiente e contribuir para projetos desafiadores!**
 ---
 
 ## 📊 Minhas Estatísticas no GitHub
