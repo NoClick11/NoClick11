@@ -37,7 +37,7 @@ Para que a aplicação não apenas exista, mas se sustente no ar com qualidade, 
 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoClick11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoClick11&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=NoClick11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=NoClick11&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 📫 Entre em Contato
