@@ -2,16 +2,8 @@ Olá, sou o Manuel Bahamonde! 👋
 
 Sou um Desenvolvedor Fullstack apaixonado por tirar ideias do papel e transformá-las em aplicações completas, desde a estrutura do banco de dados até a tela do usuário. Gosto de resolver problemas complexos mantendo o código limpo e a arquitetura simples e escalável.
 
-Tenho facilidade em transitar entre diferentes tecnologias para entregar a melhor solução. Aqui está um resumo do que eu sei fazer:
+Tenho facilidade em transitar entre diferentes tecnologias para entregar a melhor solução.
 
-💻 No Backend (Onde a mágica acontece):
-Me sinto em casa estruturando APIs e lógicas de negócio robustas. Domino PHP (Laravel) e Java (Spring Boot), com conhecimentos sólidos para criar desde sistemas de autenticação seguros até integrações com métodos de pagamento e motores de cálculo. Também sei lidar muito bem com bancos de dados relacionais (MySQL), criando rotinas otimizadas e consultas que não travam, mesmo com um volume alto de informações.
-
-🎨 No Frontend (O que o usuário vê e sente):
-Gosto de construir interfaces que sejam não apenas bonitas, mas rápidas e reativas. Tenho bastante facilidade com Vue.js e React.js, construindo telas onde a navegação flui sem a necessidade de ficar recarregando a página o tempo todo.
-
-⚙️ Na Arquitetura e Infraestrutura (Fazendo tudo rodar liso):
-Para que a aplicação não apenas exista, mas se sustente no ar com qualidade, sei como empacotar e organizar ambientes usando Docker. Tenho o conhecimento prático para automatizar testes e entregas usando CI/CD (GitHub Actions), além de saber implementar comunicação em tempo real com WebSockets e gerenciar filas de processos com RabbitMQ ou Cronjobs.
 
 ## 🛠️ Minhas Ferramentas e Tecnologias
 
