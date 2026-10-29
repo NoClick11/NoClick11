@@ -90,8 +90,6 @@ const manuel = {
   <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,kubernetes,githubactions&theme=dark" alt="Bancos, containers e CI/CD" />
 </p>
 
-<p align="center"><sub>APIs RESTful · Clean Architecture · GitFlow · Testes unitários e de integração · Swagger</sub></p>
-
 <br />
 
 ## 📊 No GitHub
