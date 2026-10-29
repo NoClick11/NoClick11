@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/NoClick11">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=22FF6E&center=true&vCenter=true&width=680&lines=Crio+solu%C3%A7%C3%B5es+com+intelig%C3%AAncia+artificial;Assistentes+de+IA+no+WhatsApp+e+em+chamadas;Agentes+com+tool+calling+e+orquestra%C3%A7%C3%A3o;Backend+s%C3%B3lido+%2B+Full+Stack;Desenvolvedor+Backend+Pleno+na+JusCalculos" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=22FF6E&center=true&vCenter=true&width=680&lines=Crio+solu%C3%A7%C3%B5es+com+intelig%C3%AAncia+artificial;Assistentes+de+IA+no+WhatsApp+e+em+chamadas;Agentes+com+tool+calling+e+orquestra%C3%A7%C3%A3o;RAG+com+os+dados+da+sua+empresa;Backend+s%C3%B3lido+%2B+Full+Stack;Desenvolvedor+Backend+Pleno+na+JusCalculos" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 ```ts
 const manuel = {
   cargo:      "Desenvolvedor Backend Pleno @ JusCalculos",
-  foco:       ["Soluções com IA", "Backend", "Full Stack"],
+  foco:       ["Soluções com IA", "RAG", "Backend", "Full Stack"],
   experiencia: "3 anos transformando ideias em sistemas que rodam de verdade",
   agora:      "Migrando um sistema legado para uma plataforma moderna e escalável",
   gosto_de:   "Problemas complexos resolvidos com código limpo e arquitetura simples",
@@ -50,6 +50,12 @@ const manuel = {
     <td width="50%" valign="top">
       <h3>🧠 Orquestração de agentes</h3>
       Vários agentes trabalhando juntos: um agente principal divide a tarefa, distribui para agentes especializados e confere o resultado antes de entregar.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>📚 RAG: IA com os dados da empresa</h3>
+      IA que responde usando os documentos e dados da própria empresa. O conteúdo é organizado numa base de busca, e a cada pergunta a IA encontra os trechos mais relevantes e responde em cima deles, em vez de inventar.
     </td>
   </tr>
 </table>
