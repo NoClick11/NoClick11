@@ -86,8 +86,8 @@ const manuel = {
 ## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,laravel,php,dotnet,python&theme=dark" alt="Backend" /><br />
-  <img src="https://skillicons.dev/icons?i=react,vue,postgres,mysql,docker,kubernetes,githubactions&theme=dark" alt="Frontend, dados e infraestrutura" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,python,ts,vue,react&theme=dark" alt="Linguagens e frameworks" /><br />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,kubernetes,githubactions&theme=dark" alt="Bancos, containers e CI/CD" />
 </p>
 
 <p align="center"><sub>APIs RESTful · Clean Architecture · GitFlow · Testes unitários e de integração · Swagger</sub></p>
